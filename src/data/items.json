@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Galaxy Z Flip4",
+        "price": 1000,
+        "imgUrl": "/imgs/Galaxy_Z_Flip4.png"
+    },
+    {
+        "id": 2,
+        "name": "Motorola Edge 30 ",
+        "price": 1200,
+        "imgUrl": "/imgs/Moto_Edge_30.png"
+    },
+    {
+        "id": 3,
+        "name": "Galaxy S21",
+        "price": 1300,
+        "imgUrl": "/imgs/Galaxy_S21_Fe.png"
+    },
+    {
+        "id": 4,
+        "name": "Galaxy S22 Ultra",
+        "price": 1400,
+        "imgUrl": "/imgs/SG_S22_ultra.png"
+    },
+    {
+        "id": 5,
+        "name": "Galaxy Z Fold4",
+        "price": 1500,
+        "imgUrl": "/imgs/Galaxy_Z_Fold4.png"
+    },
+    {
+        "id": 6,
+        "name": "iPhone SE 3Gen",
+        "price": 1600,
+        "imgUrl": "/imgs/i_Phone_SE_128.png"
+    }
+]
