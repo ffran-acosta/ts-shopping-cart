@@ -8,5 +8,5 @@ export default defineConfig({
   resolve: {
     alias: [{ find: '@', replacement: path.resolve(__dirname, 'src') }],
   },
-  base: '/ts-shopping-cart/'
+  base: '/ts-shopping-cart/store'
 })
