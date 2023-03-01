@@ -1,12 +1,8 @@
-
-import { testingService } from "@/services"
-import { useEffect, useState } from "react"
-
 const About = () => {
 
     return (
         <div>
-            about
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta, officia illo repudiandae atque necessitatibus amet tempora iure similique deserunt doloribus dolorum nesciunt nihil, inventore animi. Dolorem est blanditiis nisi natus.
         </div>
     )
 }

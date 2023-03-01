@@ -49,7 +49,8 @@ export const StoreItem = ({ id, name, price, imgurl }: StoreItemProps) => {
                                 <span className="fs-3"> {quantity} </span>
                             </div>
                             <Button
-                                onClick={() => increaseCartQuantity(id)}> + </Button>
+                                onClick={() => increaseCartQuantity(id)}> + 
+                            </Button>              
                             <Button
                                 size="sm" variant="danger"
                                 onClick={() => removeFromCart(id)}>
